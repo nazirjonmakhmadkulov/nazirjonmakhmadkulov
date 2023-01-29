@@ -1,4 +1,4 @@
-## More about me
+## Hi there 👋
 ```kotlin
 val nazirjon = developer {
     about {
