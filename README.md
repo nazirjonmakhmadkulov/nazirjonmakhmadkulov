@@ -6,7 +6,7 @@ val nazirjon = developer {
         company = Nazaret Capital
         role = Android_team_lead
     }
-    tech("Kotlin", "Android")
+    tech("Kotlin", "Flutter", "Android")
     links {
         telegram = "@nazirjon_m"
     }
