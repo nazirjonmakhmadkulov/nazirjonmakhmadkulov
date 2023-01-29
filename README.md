@@ -1,6 +1,4 @@
-![Kostya Tskhovrebov Banner](https://raw.github.com/terrakok/terrakok/master/github.png)
-
-## <img width="45" alt="about" src="https://raw.github.com/terrakok/terrakok/master/about.png"> More about me
+## More about me
 ```kotlin
 val nazirjon = developer {
     about {
