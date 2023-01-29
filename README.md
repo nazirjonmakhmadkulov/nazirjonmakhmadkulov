@@ -4,7 +4,7 @@ val nazirjon = developer {
     about {
         name = "Nazirjon Makhmadkulov"
         company = Nazaret Capital
-        role = Android_team_lead
+        role = Mobile developer
     }
     tech("Kotlin", "Flutter", "Android")
     links {
