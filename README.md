@@ -1,16 +1,16 @@
-### Hi there 👋
+![Kostya Tskhovrebov Banner](https://raw.github.com/terrakok/terrakok/master/github.png)
 
-<!--
-**nazirjonmakhmadkulov/nazirjonmakhmadkulov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...sd
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...ss
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <img width="45" alt="about" src="https://raw.github.com/terrakok/terrakok/master/about.png"> More about me
+```kotlin
+val nazirjon = developer {
+    about {
+        name = "Nazirjon Makhmadkulov"
+        company = Nazaret Capital
+        role = Android_team_lead
+    }
+    tech("Kotlin", "Android")
+    links {
+        telegram = "@nazirjon_m"
+    }
+}
+```
