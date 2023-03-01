@@ -3,7 +3,7 @@
 val nazirjon = developer {
     about {
         name = "Nazirjon Makhmadkulov"
-        company = "XDSoft"
+        company = "XDSOFT"
         role = Mobile_developer
     }
     tech("Kotlin", "Flutter", "Android")
