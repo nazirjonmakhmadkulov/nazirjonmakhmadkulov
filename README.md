@@ -6,7 +6,7 @@ val nazirjon = developer {
         company = "WB Tech"
         role = mobile_developer
     }
-    tech("Java", "Kotlin", "KMP/KMM", "Android", "iOS")
+    tech("Java", "Kotlin", "KMP", "Android", "iOS")
     links {
         telegram = "@nazirjon_m"
     }
